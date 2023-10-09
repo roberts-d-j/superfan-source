@@ -1,2 +1,5 @@
-# superfan-source
-Tech Elevator final capstone. Full stack web application allowing music fans to connect directly to artists they enjoy to receive messages and track events and music releases.
+# Final Capstone
+​
+This directory contains all of the starter projects for the final capstone.
+​
+Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
